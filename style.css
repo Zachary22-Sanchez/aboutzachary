@@ -1,0 +1,15 @@
+img {
+	width: 300px;
+	height: 200px;
+	border: 2px solid;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+}
+
+body {
+	background-color: aqua;
+}
